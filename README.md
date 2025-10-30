@@ -18,7 +18,8 @@ Usage
 ----------------------
 You should have installed and running MFA on your machine.
 
-To Run forced alignment on a corpus, simply download new acousti model and dictionary, put it in your path and run it with mfa align command.
+To Run forced alignment on a corpus, simply download new acousti model and dictionary, put it in your path and run it with mfa align command:
+
 mfa align [OPTIONS] CORPUS_DIRECTORY DICTIONARY_PATH ACOUSTIC_MODEL_PATH
           OUTPUT_DIRECTORY
 
