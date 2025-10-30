@@ -11,6 +11,7 @@ Training data: Common Voice Corpus 22.0 Georgian, ~116,586 utterances (~586k sec
 Contents
 ----------------------
 ka_v3.zip – Georgian acoustic model
+
 ka_v3.dict – Dictionary
 
 Usage
