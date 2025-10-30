@@ -5,7 +5,9 @@ The model can be used for forced alignment of Georgian speech, allowing conversi
  Model Overview
 ----------------------
 Language: Georgian
+
 Phone set: XPF (compatible with MFA Georgian dictionary)
+
 Training data: Common Voice Corpus 22.0 Georgian, ~116,586 utterances (~586k seconds) across 2,316 speakers 
 
 Contents
