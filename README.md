@@ -30,8 +30,7 @@ Example:
 mfa align /myfiles/mfa/audio_corpus \
           /myfiles/mfa/ka_v3.dict \
           /myfiles/mfa/ka_v3.zip \
-          /myfiles/mfa/output_aligned
-          
+          /myfiles/mfa/output_aligned          
           --clean \
           --single_speaker \
           --beam 4000 \
