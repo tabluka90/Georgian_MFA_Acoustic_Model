@@ -24,6 +24,7 @@ mfa align [OPTIONS] CORPUS_DIRECTORY DICTIONARY_PATH ACOUSTIC_MODEL_PATH
           OUTPUT_DIRECTORY
 
 Example:
+
 mfa align /myfiles/mfa/audio_corpus \
           /myfiles/mfa/ka_v3.dict \
           /myfiles/mfa/ka_v3.zip \
@@ -36,6 +37,7 @@ mfa align /myfiles/mfa/audio_corpus \
           
 Citation
 ----------------------
+
 @misc{Tabagari_2025,
     author       = {Tabagari, Luka},
     title        = {Georgian Acoustic Model and Dictionary for Montreal Forced Aligner},
