@@ -1,6 +1,7 @@
-This repository contains a Georgian acoustic model trained for use with Montreal Forced Aligner (MFA).
+Repository contains a Georgian acoustic model trained for use with Montreal Forced Aligner (MFA).
 The model can be used for forced alignment of Georgian speech, allowing conversion of audio and transcripts into time-aligned phone and word sequences.
 
+This work was developed as part of the EU Horizon Europe project GAIN (Georgian Artificial Intelligence Networking and Twinning Initiative)
 
  Model Overview
 ----------------------
