@@ -9,7 +9,7 @@ Language: Georgian
 
 Phone set: XPF (compatible with MFA Georgian dictionary)
 
-Training data: Common Voice Corpus 22.0 Georgian, ~116,586 utterances (~586k seconds) across 2,316 speakers 
+Training data: Common Voice Corpus 22.0 Georgian, ~116586 utterances (~586k seconds) across 2316 speakers 
 
 Contents
 ----------------------
