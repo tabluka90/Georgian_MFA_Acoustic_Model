@@ -3,6 +3,8 @@ The model can be used for forced alignment of Georgian speech, allowing conversi
 
 This work was developed as part of the EU Horizon Europe projects GAIN (Georgian Artificial Intelligence Networking and Twinning Initiative) and FORGE-AI
 
+Georgian Technical University, MICM.
+
  Model Overview
 ----------------------
 Language: Georgian
